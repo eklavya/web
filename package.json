@@ -1,12 +1,12 @@
 {
   "version": "3.0.3",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "name": "web",
+  "description": "Personal website of Saurabh Rawat",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
-    "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "yarn run clean && gatsby build --prefix-paths && cp ./src/CNAME public/ && gh-pages -d public",
     "clean": "rimraf .cache public",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
@@ -16,26 +16,12 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": "https://github.com/eklavya/web",
+  "author": "Saurabh Rawat <saurabh.rawat90@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "gatsby",
-    "graphql",
-    "netlify",
-    "netlify-cms",
-    "pagination",
-    "categories",
-    "tags",
-    "prismjs",
-    "static",
-    "lost",
     "blog",
-    "minimal",
-    "react",
-    "theme",
-    "starter",
-    "disqus"
+    "website"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
