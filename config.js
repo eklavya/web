@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Saurabh Rawat',
-    photo: '/portfolio.png',
+    photo: '/profile.jpg',
     bio: 'Developer, Entrepreneur',
     contacts: {
       email: 'saurabh.rawat90@gmail.com',
