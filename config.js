@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Personal website of Saurabh Rawat',
   subtitle: 'I try hard to sound smart here.',
-  copyright: '© All rights reserved.',
+  copyright: '© ' + new Date().getFullYear() + ' All rights reserved.',
   disqusShortname: 'saurabhrawat',
   postsPerPage: 4,
   googleAnalyticsId: '',
