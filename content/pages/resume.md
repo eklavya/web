@@ -11,8 +11,12 @@ I am an active open source contributor with contributions in some major libs in 
 I am a functional programmer. My primary interest is in developing highly scalable distributed systems. 
 
 # Experience
-## **[Oracle](https://www.oracle.com/cloud/)** - Engineering Manager
-**Oct 2020 – Present, Bengaluru, India**
+
+## **[Google](https://google.com/)** - Engineering Manager
+**Oct 2022 – Present, Bengaluru, India**
+
+## **[Oracle](https://www.oracle.com/cloud/)** - Software Development Manager
+**Oct 2020 – Sept 2022, Bengaluru, India**
 
 ## **[Oracle](https://www.oracle.com/cloud/)** - Principal Member Of Technical Staff
 **Nov 2019 – Present, Bengaluru, India**
